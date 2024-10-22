@@ -25,7 +25,7 @@ The primary goal of this project was to analyze global population data over time
 **Impact:**
 This project provided a detailed and easily understandable visualization of world population trends, aiding stakeholders in making informed decisions based on historical and current population data. The interactive dashboard allows for quick insights and comparisons across different regions and time periods, making it a valuable tool for demographic analysis and strategic planning.
 
-#### **Project Link:** 
+#### **Project Link:** https://1drv.ms/x/c/f9f7d64a3d20ddbb/EQhXcrp6J6NFo2PS5FtzrZkBLmbnGmoTDBGyypIEWcWmSw
 
 
 
@@ -48,7 +48,7 @@ The analysis was performed in three stages:
 **Impact:**  
 This thyroid cancer analysis dashboard serves as a powerful tool for healthcare professionals and researchers by offering a clear and interactive view of crucial factors such as age, gender, and cancer stage distribution. The filters provide flexibility in exploring specific demographics and risk factors, leading to more targeted insights. These insights can support more personalized treatment strategies and help identify patterns in recurrence rates, ultimately improving medical decision-making for thyroid cancer patients.
 
-#### **Project Link:**
+#### **Project Link:** 
 
 
 
@@ -77,7 +77,7 @@ The solution was developed through the following stages:
 **Impact:**  
 This salary analysis dashboard offers valuable insights into compensation trends in the computer professions sector. Employers can use it to set competitive salaries, while job seekers can gain insights into potential earnings based on their experience, job role, and preferred working conditions. Additionally, the dashboard allows stakeholders to explore how company size affects salary and job availability.
 
-#### **Project Link:** 
+#### **Project Link:** https://1drv.ms/x/c/f9f7d64a3d20ddbb/EWjzAKylmP9LhEtmLN6YYR8Bo8YKl56POC_YADtDzKLfmg
 
 
 
@@ -104,5 +104,5 @@ The project was executed in three stages:
 **Impact:**  
 This obesity analytics dashboard helps policymakers, researchers, and healthcare professionals understand obesity patterns and correlations within various lifestyle factors, such as smoking and transportation modes. With interactive filters, the dashboard provides flexibility in isolating specific factors, making it easier to identify target areas for public health interventions aimed at reducing obesity rates and associated health risks.
 
-#### **Project Link:** 
+#### **Project Link:** https://1drv.ms/x/c/f9f7d64a3d20ddbb/ETJ1DlqhNGZCsdHdCTvl-GMB3z2irG3aDolQuzHm3IR_eg
 
