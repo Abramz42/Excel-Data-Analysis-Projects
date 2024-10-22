@@ -1,6 +1,6 @@
 # Excel-Data-Analysis-Projects
 
-## 1. Comprehensive World Population Analysis Using Excel: A Dashboard Approach
+## **1. Comprehensive World Population Analysis Using Excel: A Dashboard Approach**
 
 **Project Goal:**
 The primary goal of this project was to analyze global population data over time to uncover trends and insights across different continents and countries, while creating an interactive and visually engaging dashboard for easy interpretation and decision-making. Specifically, the project aimed to:
@@ -25,4 +25,4 @@ The primary goal of this project was to analyze global population data over time
 **Impact:**
 This project provided a detailed and easily understandable visualization of world population trends, aiding stakeholders in making informed decisions based on historical and current population data. The interactive dashboard allows for quick insights and comparisons across different regions and time periods, making it a valuable tool for demographic analysis and strategic planning.
 
-### **Project Link:**
+#### **Project Link:**
