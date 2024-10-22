@@ -48,7 +48,7 @@ The analysis was performed in three stages:
 **Impact:**  
 This thyroid cancer analysis dashboard serves as a powerful tool for healthcare professionals and researchers by offering a clear and interactive view of crucial factors such as age, gender, and cancer stage distribution. The filters provide flexibility in exploring specific demographics and risk factors, leading to more targeted insights. These insights can support more personalized treatment strategies and help identify patterns in recurrence rates, ultimately improving medical decision-making for thyroid cancer patients.
 
-#### **Project Link:** 
+#### **Project Link:** https://1drv.ms/x/c/f9f7d64a3d20ddbb/Ea7-58Q-3LRJm3zCqo9tYEkBoEbOy0EaIMKDLhSYpXxCBg
 
 
 
