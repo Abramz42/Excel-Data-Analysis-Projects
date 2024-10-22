@@ -1,6 +1,6 @@
 # Excel-Data-Analysis-Projects
 
-## **1. Comprehensive World Population Analysis Using Excel: A Dashboard Approach**
+## **1. Comprehensive World Population Analysis: A Dashboard Approach**
 
 **Project Goal:**
 The primary goal of this project was to analyze global population data over time to uncover trends and insights across different continents and countries, while creating an interactive and visually engaging dashboard for easy interpretation and decision-making. Specifically, the project aimed to:
@@ -78,3 +78,31 @@ The solution was developed through the following stages:
 This salary analysis dashboard offers valuable insights into compensation trends in the computer professions sector. Employers can use it to set competitive salaries, while job seekers can gain insights into potential earnings based on their experience, job role, and preferred working conditions. Additionally, the dashboard allows stakeholders to explore how company size affects salary and job availability.
 
 #### **Project Link:** 
+
+
+
+## **4. Obesity Data Analytics Overview**
+
+**Goal:**  
+The primary goal of the project was to:
+1. Clean the obesity dataset by removing duplicate, missing, and erroneous data points.
+2. Utilize pivot tables and charts to create a dashboard that provides insights into:
+   - The distribution of obesity in the surveyed population.
+   - Gender distribution in relation to obesity.
+   - Family history of obesity, smoking habits, and transportation modes of the participants.
+
+**Solution:**  
+The project was executed in three stages:
+1. **Data Cleaning:** The dataset was cleaned to ensure accuracy by handling duplicates and null values, which set a strong foundation for analysis.
+2. **Data Analysis:** Key insights were drawn from the dataset using pivot tables and charts to visualize patterns and distributions. This included factors like obesity rates, smoking habits, family history, and transportation modes.
+3. **Dashboard Creation:** A user-friendly, interactive dashboard was created to visualize the key metrics, including:
+   - Obesity distribution and the sex count of the participants.
+   - Family history count (whether participants had a family history of obesity).
+   - Smoking count and SCC (smoking cessation) count.
+   - The transportation modes used, such as public transport, walking, automobiles, etc.
+
+**Impact:**  
+This obesity analytics dashboard helps policymakers, researchers, and healthcare professionals understand obesity patterns and correlations within various lifestyle factors, such as smoking and transportation modes. With interactive filters, the dashboard provides flexibility in isolating specific factors, making it easier to identify target areas for public health interventions aimed at reducing obesity rates and associated health risks.
+
+#### **Project Link:** 
+
